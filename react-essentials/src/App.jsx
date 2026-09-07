@@ -1,5 +1,5 @@
 import {CORE_CONCEPTS} from "./data.js";
-import Header from "./Componets/Header.jsx";
+import Header from "./Componets/Header/Header.jsx";
 import CoreConcept from "./Componets/CoreConcepts.jsx";
 
 
