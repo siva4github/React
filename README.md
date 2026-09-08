@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/siva4github/React)](LICENSE)
 [![Vite](https://img.shields.io/badge/bundler-vite-ff69b4)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/library-react-61dafb)](https://react.dev/)
+[![CI](https://github.com/siva4github/React/actions/workflows/ci.yml/badge.svg)](https://github.com/siva4github/React/actions/workflows/ci.yml)
 
 A small collection of React starter projects and examples. The main example is `react-essentials`, a minimal Vite + React starter for learning and experimentation.
 
@@ -35,13 +36,13 @@ createRoot(document.getElementById('root')).render(<App />);
 
 Screenshot
 
-![App screenshot](react-essentials/assets/screenshot.png)
+![App screenshot](react-essentials/assets/screenshot.svg)
 
-(Replace `react-essentials/assets/screenshot.png` with a real screenshot file — I can add one if you provide the image.)
+(Replace `react-essentials/assets/screenshot.svg` with a real screenshot file — I can add one if you provide the image.)
 
 Contributing
 
-Contributions are welcome. If you want a longer README, CI badges, tests, or example apps added, tell me what to include and I will update the repo.
+Contributions are welcome. If you want a longer README, additional CI badges, tests, or example apps added, tell me what to include and I will update the repo.
 
 License
 
